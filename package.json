@@ -1,0 +1,9 @@
+{
+  "name": "universe-cat",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Universe Cat local static website",
+  "scripts": {
+    "start": "node server.js"
+  }
+}
